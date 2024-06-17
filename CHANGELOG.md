@@ -1,4 +1,4 @@
-# Revision history for timer
+# Revision history for htimer
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
